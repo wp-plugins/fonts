@@ -1,6 +1,6 @@
 	=== Plugin Name ===
 Contributors: wordpresssites
-Tags: fonts,wsyiwyg
+Tags: fonts,wysiwyg
 Requires at least: 3.0.1
 Tested up to: 3.5
 Stable tag: 4.3
@@ -25,11 +25,4 @@ This plugin simply adds 2 buttons to your visual editor:
 
 == Screenshots ==
 
-fonts.png
-
-function add_more_buttons($buttons) {
-$buttons[] = 'fontselect';
-$buttons[] = 'fontsizeselect';
-return $buttons;
-}
-add_filter("mce_buttons_3", "add_more_buttons");
+See Above
