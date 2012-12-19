@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Brad Dalton wpsites.net
+Contributors: wordpresssites
 Tags: fonts,wysiwyg
 Requires at least: 3.0.1
 Tested up to: 3.5
@@ -16,8 +16,6 @@ This plugin simply adds 2 drop down menu buttons to your visual editor:
 1. A button for Styles
 2. A button for Sizes
 
-
-If you have suggestions, feel free to email me at brad@wpsites.net.
 
 Want regular updates? Become a fan of WP Sites on Facebook!
 
@@ -41,8 +39,6 @@ Go to your Edit Post/Page screen and check it out!
 
 == Screenshots ==
 
+1. This is the Font Family menu
 
-
-
-
-See Above
+2. This is the Font Sizes menu
