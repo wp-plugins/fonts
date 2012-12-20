@@ -25,6 +25,10 @@ Or Get The Latest WordPress Tips, Tutorials & News on Twitter!
 
 http://twitter.com/wpsitesdotnet
 
+Learn More About Enabling Hidden Mce Buttons in WordPress
+
+http://codex.wordpress.org/TinyMCE_Custom_Buttons#Enabling_hidden_MCE_buttons
+
 
 == Installation ==
 
