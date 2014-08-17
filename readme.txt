@@ -17,8 +17,8 @@ This plugin simply adds 2 drop down menu buttons to your visual editor:
 1. A button for Styles
 2. A button for Sizes
 
-Please http://feeds.feedburner.com/wpsitesdotnet/ subscribe to my RSS Feed for updates
-
+Get Updates http://wpsites.net/
+ 
 == Screenshots ==
 
 1. This is the Font Family menu
