@@ -17,26 +17,7 @@ This plugin simply adds 2 drop down menu buttons to your visual editor:
 1. A button for Styles
 2. A button for Sizes
 
-
-Want regular updates? Become a fan of WP Sites on Facebook!
-
-http://www.facebook.com/wpsites.net
-
-Or Get The Latest WordPress Tips, Tutorials & News on Twitter!
-
-http://twitter.com/wpsitesdotnet
-
-
-== Installation ==
-
-1. Upload `fonts.php` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-
-Thats it. 
-
-You'll find 2 new buttons added to your visual editor. 
-
-Go to your Edit Post/Page screen and check it out!
+Please http://feeds.feedburner.com/wpsitesdotnet/ subscribe to my RSS Feed for updates
 
 == Screenshots ==
 
