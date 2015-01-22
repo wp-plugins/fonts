@@ -21,7 +21,7 @@ add_action('wp_dashboard_setup', 'fonts_dashboard_widgets');
 function fonts_dashboard_widgets() {
    global $wp_meta_boxes;
 
-   wp_add_dashboard_widget('wpsitesfontswidget', 'Latest Solutions for WordPress', 'fonts_widget');
+   wp_add_dashboard_widget('wpsitesfontswidget', '1 on 1 Coding Support for Members of WP Sites', 'fonts_widget');
 }
 		function fonts_limit( $text, $limit, $finish = ' [&hellip;]') {
 			if( strlen( $text ) > $limit ) {
