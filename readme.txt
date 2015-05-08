@@ -1,7 +1,7 @@
 === Fonts ===
 Contributors: wordpresssites
 Donate link:http://wpsites.net/donate-to-wp-sites/
-Tags: fonts,wysiwyg
+Tags: fonts,font,wysiwyg
 Requires at least: 3.0.1
 Tested up to: 4.2.2
 Stable tag: 4.3
@@ -12,13 +12,21 @@ Add More Font Styles & Sizes To Your Visual Editor in WordPress
 
 == Description ==
 
-This plugin simply adds 2 drop down menu buttons to your visual editor:
+This plugin adds 2 drop down menus to your visual editor with additional sizes and fonts:
 
 1. A button for Styles
 2. A button for Sizes
 
-Get Updates http://wpsites.net/
+New: You can also add your own selection of Google or Custom fonts including premium fonts, to your editor:
+
+
+
+Add Google fonts http://wpsites.net/wordpress-admin/add-google-web-fonts-to-your-wordpress-editor/
+
+
+Add custom fonts http://wpsites.net/wordpress-themes/add-custom-fonts-to-the-wordpress-editor/
  
+
 == Screenshots ==
 
 1. This is the Font Family menu
