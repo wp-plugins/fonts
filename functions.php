@@ -1,12 +1,13 @@
 <?php 
 /*
-	Plugin Name: Fonts
-	Plugin URI: http://wpsites.net/plugins/fonts/
-	Description: Add More Font Styles & Sizes To Your Visual Editor in WordPress
-	Version: 1.1
-	Author: Brad Dalton - wpsites
-	Author URI: http://wpsites.net/
-	License: GPL2
+Plugin Name: Fonts
+Plugin URI: http://wpsites.net/plugins/fonts/
+Description: <a href="http://wpsites.net/wordpress-admin/add-google-web-fonts-to-your-wordpress-editor/">Add Google Fonts</a> | <a href="http://wpsites.net/wordpress-themes/add-custom-fonts-to-the-wordpress-editor/">Add custom fonts</a>
+Version: 2.1
+Author: Brad Dalton - wpsites
+Author URI: http://wpsites.net/wordpress-admin/add-google-web-fonts-to-your-wordpress-editor/
+
+License: GPL2
 */
 
 function add_more_buttons($buttons) {
